@@ -1,9 +1,9 @@
 # Outcome-Based Security Assurance
 *An exploration of deriving assurance from system behavior rather than control artifacts.*
 
-Security outcomes are determined by how systems behave.
+Security outcomes are determined by how systems operate.
 
-However, most security assurance today is derived from control frameworks and audit artifacts. These provide standardized, auditable signals, but often fail to reflect how systems actually behave under real conditions.
+However, most security assurance today is derived from control frameworks and audit artifacts. These provide standardized, auditable signals, but often fail to reflect how systems actually function under real conditions.
 
 This project explores a minimal model for deriving assurance directly from system behavior, using outcome-based evaluation and structured reasoning instead of control checklists.
 
@@ -14,7 +14,7 @@ It is not a replacement for existing frameworks, but an attempt to improve how s
 ---
 
 ## 0. Summary
-Security assurance today is largely derived from abstract controls and shallow evidence. This produces signals that are often weak or misleading with respect to how systems actually behave.
+Security assurance today is largely derived from abstract controls and shallow evidence. This produces signals that are often weak or misleading with respect to how systems actually operate.
 
 This project explores a minimal model for deriving assurance directly from system behavior, using outcome-based evaluation and structured reasoning instead of control checklists.
 
